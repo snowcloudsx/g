@@ -1,2 +1,3 @@
 cd 'Compiled Source (DO NOT TOUCH)'
-node index.js
+npm install
+npm start
